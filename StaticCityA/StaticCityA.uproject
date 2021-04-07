@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C41B479A-4330-10DA-C336-BD8B6960F32C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "StaticCityA",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	]
+}

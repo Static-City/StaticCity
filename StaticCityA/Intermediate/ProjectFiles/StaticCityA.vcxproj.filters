@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StaticCityA.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{582C6602-B0BE-4165-98CC-D7200FBBCFB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StaticCityA.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StaticCityAEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1F6B750F-13BA-4AAF-92AB-291D607DF587}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StaticCityA">
+      <UniqueIdentifier>{712E0E75-545A-4D76-80A0-4E1757A88B36}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StaticCityA\StaticCityA.Build.cs">
+      <Filter>Source\StaticCityA</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StaticCityA\StaticCityA.cpp">
+      <Filter>Source\StaticCityA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StaticCityA\StaticCityA.h">
+      <Filter>Source\StaticCityA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StaticCityA\StaticCityAGameModeBase.cpp">
+      <Filter>Source\StaticCityA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StaticCityA\StaticCityAGameModeBase.h">
+      <Filter>Source\StaticCityA</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

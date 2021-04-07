@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "StaticCityA",
+			"Path": "D:\\UE4 Projects\\StaticCityA\\Source\\StaticCityA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StaticCityAEditor",
+			"Path": "D:\\UE4 Projects\\StaticCityA\\Source\\StaticCityAEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "StaticCityAServer",
+			"Path": "D:\\UE4 Projects\\StaticCityA\\Source\\StaticCityAServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}
